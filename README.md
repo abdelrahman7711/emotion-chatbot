@@ -36,9 +36,5 @@ EmpathyBot is a prototype chatbot that:
 
 ---
 
-## 🖥️ Installation & Usage  
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/empathybot.git
-cd empathybot
+link of the demo:
+https://drive.google.com/drive/folders/1ia6gARmi0S169AWk8qF3zLlSD6FORM7U?usp=sharing
